@@ -12,4 +12,3 @@ Tools/Skills used:
 * Jupyter Notebook
 * SQL
 * Data Analysis & Manipulation
-
