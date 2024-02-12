@@ -8,3 +8,8 @@ In this analysis, we are going to analyze international debt data collected by T
 * Which country owns the maximum amount of debt and what does that amount look like?
 * What is the average amount of debt owed by countries across different debt indicators?
 
+Tools/Skills used: 
+* Jupyter Notebook
+* SQL
+* Data Analysis & Manipulation
+
